@@ -1,0 +1,16 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "monk": "^3.1.3"
+  }
+}
